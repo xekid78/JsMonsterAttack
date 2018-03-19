@@ -1,0 +1,2 @@
+# JsMonsterAttack
+クラスでモンスターへの攻撃
